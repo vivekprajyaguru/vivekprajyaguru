@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Vivek
+- 👀 I’m interested in Data Science & Analytics
+- 🌱 I’m currently learning advanced SQL and Python
+- 💞️ I’m looking to collaborate on any data analytic or data science projects
+- 📫 How to reach me: vivekprajyaguru@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
