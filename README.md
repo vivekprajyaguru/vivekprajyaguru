@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on any data analytic or data science projects
 - 📫 How to reach me: vivekprajyaguru@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
